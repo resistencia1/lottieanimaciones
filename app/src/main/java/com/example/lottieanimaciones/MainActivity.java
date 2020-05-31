@@ -18,10 +18,7 @@ public class MainActivity extends AppCompatActivity {
 
         final LottieAnimationView  lottieSwitchButton=findViewById(R.id.lottSwitch);
         //cambiar velocidad
-        //&dsafds
-        //&dsafds
-        //&dsafds
-        //&dsafdszfczxczx
+        
         //&dsafds
         lottieSwitchButton.setSpeed(3f);
         lottieSwitchButton.setOnClickListener(new View.OnClickListener() {
