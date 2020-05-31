@@ -11,6 +11,11 @@ public class MainActivity extends AppCompatActivity {
 
     boolean isSwitchOn =false;
 
+
+
+
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -18,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
 
         final LottieAnimationView  lottieSwitchButton=findViewById(R.id.lottSwitch);
         //cambiar velocidad
-        
+
         //&dsafds
         lottieSwitchButton.setSpeed(3f);
         lottieSwitchButton.setOnClickListener(new View.OnClickListener() {
