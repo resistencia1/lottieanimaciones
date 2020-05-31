@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
         //&dsafds
         //&dsafds
         //&dsafds
+        //&dsafds
         lottieSwitchButton.setSpeed(3f);
         lottieSwitchButton.setOnClickListener(new View.OnClickListener() {
             @Override
